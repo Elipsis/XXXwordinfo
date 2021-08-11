@@ -1,2 +1,2 @@
-# XXXwordinfo
+# xxxwordinfo
 XXXwordinfo.com Website
