@@ -119,7 +119,7 @@ publishDir = "docs"
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Cross Puzzles"
+  description = "Crossword Puzzles for Grown-Ass Solvers"
 
   # Customization
   # Define the behavior of the sidebar
