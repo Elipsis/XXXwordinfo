@@ -1,0 +1,13 @@
+<script>
+    function resizeIframe(obj) {
+      obj.style.height =  1.05*obj.contentWindow.document.body.scrollHeight + 'px';
+    }
+  </script>
+
+<iframe height="700" 
+		width="100%"
+		allowfullscreen="true"
+		style="border:none;width: 100% !important;position: static;display: block !important;margin: 0 !important;" 
+		name="7832f968d4efc9db187485ea44b93fa3e6eb9daa580162a8d3aba6a689f30b96"
+		src="{{ index .Params 0 }}">
+</iframe>
