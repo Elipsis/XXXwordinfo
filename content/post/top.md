@@ -9,9 +9,9 @@ tags:
 keywords:
 thumbnailImage: banner.png
 thumbnailImagePosition: top
-summary: "Welcome to **XXXWordinfo.com** - **Crosswords for Grown-Ass Solvers**.\n
-\n
-As the URL implies, get ready for..."
+summary: "Welcome to **XXXWordinfo.com** - **Crosswords for Grown-Ass Solvers**.
+\n\nAs the URL implies, this site will unabashedly fail the Sunday Morning Breakfast Test.
+\n\nCrossword puzzles here will embrace the idea that sexuality and profanity are a much more relatable part of our everyday lives than 1950s baseball coaches."
 ---
 {{<figure src="/banner.png">}}
 
@@ -19,8 +19,10 @@ As the URL implies, get ready for..."
 
 Welcome to **XXXWordinfo.com** - **Crosswords for Grown-Ass Solvers**.
 
-I've set up this site to share my puzzles with the crossworld in the hopes of introducing more fun and variety than you can find in mainstream publications.
+As the URL implies, this site will unabashedly fail the Sunday Morning Breakfast Test.
 
-As the URL implies, on this website we are not going to shy away from profanity, sexuality, and other Sunday Morning Breakfast Test failures.  I'm hoping for more modern and provocative fill, and less 1950s baseball coaches.
+Crossword puzzles here will embrace the idea that sexuality and profanity are a much more relatable a part of our everyday lives than 1950s baseball coaches.
+
+My aim is to create puzzles with a more provocative, modern, and subversive fill than you can find in mainstream publications, and I don't want to shy away from content that makes solvers think out of their (15 by 15) box.
 
 -Elipsis
