@@ -20,6 +20,9 @@ Introducing my first public mini, Spicy L(a)unch.
 
 Not everything on XXXWordinfo will be so fiery, but this mini gives a preview of the kind of content you might find on future puzzles from time to time. 
 
+
+
 {{< iframe "https://amuselabs.com/pmm/crossword?id=30b93e5b&set=7832f968d4efc9db187485ea44b93fa3e6eb9daa580162a8d3aba6a689f30b96&embed=1" >}}
 
-(I hope it hurts the right amount.)
+(I hope it hurt the right amount.)  
+-Elipsis
