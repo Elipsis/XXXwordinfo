@@ -5,6 +5,7 @@ categories:
 - Mini
 tags:
 - Mini
+- NSFW
 thumbnailImage: reaper.jpg
 autoThumbnailImage: true
 thumbnailImagePosition: left

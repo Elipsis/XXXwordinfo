@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Standard on XXXwordinfo</title>
-    <link>https://xxxwordinfo.com/tags/standard/</link>
-    <description>Recent content in Standard on XXXwordinfo</description>
+    <title>NSFW on XXXwordinfo</title>
+    <link>https://xxxwordinfo.com/tags/nsfw/</link>
+    <description>Recent content in NSFW on XXXwordinfo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Aug 2021 13:45:00 -0400</lastBuildDate><atom:link href="https://xxxwordinfo.com/tags/standard/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prefix With Dep</title>
-      <link>https://xxxwordinfo.com/2021/08/prefix-with-dep/</link>
-      <pubDate>Fri, 27 Aug 2021 13:45:00 -0400</pubDate>
-      
-      <guid>https://xxxwordinfo.com/2021/08/prefix-with-dep/</guid>
-      <description>&lt;p&gt;A surprise themed SFW puzzle drops today!  This was originally designed to be a &lt;a href=&#34;https://xxxwordinfo.com/2021/08/dominance-and-nyt-submission/&#34;&gt;NYT Submission&lt;/a&gt;, but instead has found a new home on XXXWordInfo.&lt;/p&gt;
-&lt;p&gt;To talk too much more about it would be to give away, if not subvert, this puzzles theme.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Wed, 18 Aug 2021 19:46:40 -0400</lastBuildDate><atom:link href="https://xxxwordinfo.com/tags/nsfw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dominance and (NYT) Submission</title>
       <link>https://xxxwordinfo.com/2021/08/dominance-and-nyt-submission/</link>
@@ -24,6 +14,17 @@
       
       <guid>https://xxxwordinfo.com/2021/08/dominance-and-nyt-submission/</guid>
       <description>&lt;p&gt;Hello fellow young person solvers.  As a hip and very &amp;ldquo;with it&amp;rdquo; constructor myself I know the sort of contemporary content that cool modern people (like us) love to see in puzzles.  In fact I regularly solve the New York Times digitally on my personal computer and therefore am very &amp;ldquo;plugged in&amp;rdquo; to all the new and exciting ways people just like you and I are using technology to communicate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spicy Lunch</title>
+      <link>https://xxxwordinfo.com/2021/08/spicy-lunch/</link>
+      <pubDate>Tue, 10 Aug 2021 18:59:09 -0400</pubDate>
+      
+      <guid>https://xxxwordinfo.com/2021/08/spicy-lunch/</guid>
+      <description>&lt;p&gt;Did you know that the average Carolina Reaper, the hottest pepper in the world, is over 1.5 million Scovilles?!&lt;/p&gt;
+&lt;p&gt;In order to celebrate the publication of XXXWordInfo, I packed everyone something with some heat.&lt;/p&gt;
+&lt;p&gt;Introducing my first public mini, Spicy L(a)unch.&lt;/p&gt;</description>
     </item>
     
   </channel>
