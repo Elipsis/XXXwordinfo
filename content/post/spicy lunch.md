@@ -1,5 +1,5 @@
 ---
-title: "Spicy Lunch"
+title: "Spicy L(a)unch"
 date: 2021-08-10T18:59:09-04:00
 categories:
 - Mini
