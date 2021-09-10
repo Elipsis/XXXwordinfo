@@ -15,7 +15,7 @@
 baseURL = "https://xxxwordinfo.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "XXXwordinfo"
+title = "XXXWordInfo"
 theme = "tranquilpeak"
 disqusShortname = "xxxwordinfo"
 # googleAnalytics = "UA-123-45"
