@@ -6,7 +6,6 @@ categories:
 tags:
 - Standard
 - Themed
-- NSFW
 thumbnailImage: cuffs.png
 autoThumbnailImage: true
 thumbnailImagePosition: left

@@ -6,7 +6,6 @@ categories:
 tags:
 - Standard
 - Themed
-- NSFW
 thumbnailImage: elephant.jpg
 autoThumbnailImage: true
 thumbnailImagePosition: left
